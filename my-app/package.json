@@ -19,8 +19,6 @@
     "pushToGit": "git add . && git commit -m 'some commit text' && git push"
 
   },
-  
-  
   "eslintConfig": {
     "extends": [
       "react-app",
